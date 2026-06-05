@@ -71,10 +71,6 @@ export default function Home() {
 
         <div className="container mx-auto max-w-6xl relative z-10">
           <div className="text-center space-y-8">
-            <ScrollReveal>
-              
-            </ScrollReveal>
-
             <ScrollReveal delay={100}>
               <h1 className="text-5xl md:text-7xl lg:text-[5.5rem] font-bold tracking-tight leading-[1.05]">
                 <span className="block">Building Software</span>
