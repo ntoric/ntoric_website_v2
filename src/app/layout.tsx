@@ -35,11 +35,6 @@ export const metadata: Metadata = {
   authors: [{ name: "Ntoric" }],
   creator: "Ntoric",
   metadataBase: new URL("https://ntoric.com"),
-  icons: {
-    icon: "/favicon.png",
-    shortcut: "/favicon.png",
-    apple: "/favicon.png",
-  },
   openGraph: {
     type: "website",
     locale: "en_IN",
